@@ -7,7 +7,7 @@ theme = 'diary'
     # This theme allows for a subtitle and description
     subtitle = "artist"
     enableThemeSelection = true
-    avatar = "/darklogo.png"
+    avatar = "darklogo.png"
 
 [params.gitalk]
   owner = "user"
