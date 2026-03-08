@@ -13,3 +13,6 @@ draft: false
 here i have created an adapter that allows one to use m42 mount lenses with any rf mount camera (canon r50 in my case). 
 
 {{< stl src="/m42torf.stl" id="print1" >}}
+
+
+you can download the file here: {{< download src="/m42torf.stl" label="m42-to-rf.stl" >}}
