@@ -4,8 +4,6 @@ title = 'jacobz.xyz'
 theme = 're-terminal' 
 
 [params]
-    # This theme allows for a subtitle and description
-    subtitle = "artist"
     enableThemeSelection = false
     avatar = "/darklogo.png"
     logo = "/darklogo.png"
@@ -19,6 +17,7 @@ theme = 're-terminal'
     showLastUpdated = false
     scanlines = true
     terminalFont = true
+    accentColor = "#E63946"
 
 [languages]
   [languages.en.params]
@@ -37,6 +36,7 @@ theme = 're-terminal'
     missingBackButtonLabel = "Back to home page"
     minuteReadingTime = "min read"
     words = "words"
+
 
     [languages.en.params.logo]
       logoText = "jacobz.xyz"
@@ -63,3 +63,11 @@ theme = 're-terminal'
         identifier = "tags"
         name = "tags"
         url = "/tags"
+
+[[params.social]]
+    name = "github"
+    url = "https://github.com/lilzimm48"
+
+[[params.social]]
+    name = "tiktok"
+    url = "https://www.tiktok.com/@jacobz.xyz"
