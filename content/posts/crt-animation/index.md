@@ -6,8 +6,6 @@ date: 2023-12-23
 
 description: "hand made animation broadcasted onto a crt tv"
 
-featureImage: ""
-
 categories: 
 
 &nbsp; - "videos"
@@ -17,8 +15,6 @@ tags:
 &nbsp; - "experiment"
 
 &nbsp; - "animation"
-
-&nbsp; - ""
 
 draft: false
 

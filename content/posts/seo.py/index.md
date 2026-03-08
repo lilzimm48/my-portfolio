@@ -16,9 +16,9 @@ a script i wrote to show trending google searches building on custom queries. it
 
 
 
-you can download the file here: {{< download src="/scripts/seo.py" label="seo.py" >}}
 
 
+ 
 
 ```python
 import requests  # Include functionality to make a call to the remote websites
@@ -117,3 +117,6 @@ root.bind("<Enter>", submitE)
 e1.e.focus_set()
 
 root.mainloop()
+```
+
+you can download the file here: {{< download src="/scripts/seo.py" label="seo.py" >}}
