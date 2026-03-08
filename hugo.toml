@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'jacobz.xyz'
 theme = 're-terminal' 
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
     enableThemeSelection = true
     avatar = "/darklogo.png"
