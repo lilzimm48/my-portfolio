@@ -5,7 +5,11 @@ description: "poster i did of musician vague003"
 featured_image: "v003333.png"
 image: "v003333.png"
 categories: "graphic design"
-tags: "design musician poster photoshop"
+tags: 
+  - "design"
+  - "musician"
+  - "poster"
+  - "photoshop"
 draft: false
 ---
 ![vague003 poster](v003333.png)
