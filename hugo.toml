@@ -14,3 +14,18 @@ theme = 'diary'
 [imaging]
   resampleFilter = "Box"
   quality = 75
+
+[[menu.main]]
+url = "/categories"
+name = "Categories"
+weight = 3
+
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 2
+
+[[menu.main]]
+url = "/posts"
+name = "Archive"
+weight = 1
