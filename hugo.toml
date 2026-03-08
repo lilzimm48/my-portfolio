@@ -1,6 +1,6 @@
 baseURL = 'https://jacobz.xyz/'
 languageCode = 'en-us'
-title = 'jacobz.xyz'
+title = 'jacobz.xytest'
 theme = 'diary'
 
 [params]
