@@ -10,14 +10,6 @@ categories:
 
 &nbsp; - "video"
 
-tags: 
-
-&nbsp; - "animation"
-
-&nbsp; - "experimental"
-
-&nbsp; - "crt"
-
 draft: false
 
 ---
