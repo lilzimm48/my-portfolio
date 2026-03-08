@@ -4,7 +4,7 @@ title = 'jacobz.xyz'
 theme = 're-terminal' 
 
 [params]
-    enableThemeSelection = false
+    enableThemeSelection = true
     avatar = "/darklogo.png"
     logo = "/darklogo.png"
     contentTypeName = "posts"
@@ -15,7 +15,6 @@ theme = 're-terminal'
     centerTheme = true
     autoCover = true
     showLastUpdated = false
-    scanlines = true
     terminalFont = true
     accentColor = "#E63946"
 
