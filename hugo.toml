@@ -17,6 +17,8 @@ theme = 're-terminal'
     centerTheme = false
     autoCover = true
     showLastUpdated = false
+    scanlines = true
+    terminalFont = true
 
 [languages]
   [languages.en.params]
@@ -37,7 +39,7 @@ theme = 're-terminal'
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-Terminal"
+      logoText = "jacobz.xyz"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -57,7 +59,7 @@ theme = 're-terminal'
         identifier = "tiktok"
         name = "tiktok"
         url = "https://www.tiktok.com/@jacobz.xyz"
-        [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "tags"
         name = "tags"
         url = "/tags"
