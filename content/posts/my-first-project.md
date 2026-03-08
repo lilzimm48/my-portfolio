@@ -8,5 +8,5 @@ tags: ["DIY", "Canon R50", "Macro"]
 draft: false
 ---
 
-!\[My Design](v003333.png)
-
+Here is the final build:
+![Final Lens](v003333.png)
