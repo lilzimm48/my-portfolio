@@ -7,3 +7,10 @@ theme = 'diary'
     # This theme allows for a subtitle and description
     subtitle = "artist"
     enableThemeSelection = true
+
+[build]
+  writeStats = true
+
+[imaging]
+  resampleFilter = "Box"
+  quality = 75
