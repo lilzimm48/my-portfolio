@@ -24,7 +24,7 @@ draft: false
 
 
 
-i first used an ink marker to create roughly 10 or so strokes on a piece of bristol paper. i then scanned them in, modified the colors, lined each one up, and made it a gif. lastly i played the gif on my crt tv and recorded with a dslr camera
+i first used an ink marker to create roughly 10 or so strokes on a piece of bristol paper. i then scanned them in, modified the colors, lined each one up, and made it a gif. lastly i played the gif on my crt tv and recorded with a dslr camera (canon 1200d)
 
 
 
