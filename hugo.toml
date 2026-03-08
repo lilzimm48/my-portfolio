@@ -8,6 +8,10 @@ theme = 'diary'
     subtitle = "artist"
     enableThemeSelection = true
 
+[params.gitalk]
+  owner = "user"
+  repo = "repo name"
+
 [build]
   writeStats = true
 
