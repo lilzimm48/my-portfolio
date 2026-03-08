@@ -6,11 +6,11 @@ date: 2023-12-23
 
 description: "hand made animation broadcasted onto a crt tv"
 
-categories:
+categories: 
 
 &nbsp; - "video"
 
-tags:
+tags: 
 
 &nbsp; - "animation"
 
