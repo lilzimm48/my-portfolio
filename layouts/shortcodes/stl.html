@@ -1,14 +1,15 @@
-<div id="stl_cont_{{ .Get "id" }}" style="width: 100%; height: 500px; display: block; background-color: #1a1a1a;"></div>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script src="/js/stl_viewer.min.js"></script>
+
+<div id="stl_cont_{{ .Get "id" }}" style="width:100%; height:500px; background-color: #1a1a1a;"></div>
+
 <script>
     var stl_viewer = new StlViewer(
         document.getElementById("stl_cont_{{ .Get "id" }}"),
         { 
             models: [ {id: 0, filename: "{{ .Get "src" | safeURL }}"} ],
-            js_path: "/js/", 
+            // Remove js_path if you load Three.js via CDN like above
             auto_load: true,
-            bg_color: "#1a1a1a",
             model_color: "#00ff00"
         }
     );
