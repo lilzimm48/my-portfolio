@@ -12,4 +12,4 @@ draft: false
 
 here i have created an adapter that allows one to use m42 mount lenses with any rf mount camera (canon r50 in my case). 
 
-{{< stl src="/m42 to rf.stl" id="print1" >}}
+{{< stl src="/m42torf.stl" id="print1" >}}
