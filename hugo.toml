@@ -1,7 +1,7 @@
 baseURL = 'https://jacobz.xyz/'
 languageCode = 'en-us'
 title = 'jacobz.xyz'
-theme = 'diary' 
+theme = 're-terminal' 
 
 [params]
     # This theme allows for a subtitle and description
