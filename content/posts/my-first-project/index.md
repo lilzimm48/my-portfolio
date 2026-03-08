@@ -1,12 +1,12 @@
 ---
-title: "Macro Photography: Custom Lens Build"
-date: 2026-03-08
-description: "Exploring the limits of DIY optics on the Canon R50."
+title: "vague003 poster"
+date: 2025-08-12
+description: "poster i did of musician vague003"
 image: "v003333.png"
-categories: ["Photography"]
-tags: ["DIY", "Canon R50", "Macro"]
+categories: ["graphic design"]
+tags: ["design", "musician", "poster"]
 draft: false
 ---
 
 Here is the final build:
-![Final Lens](/v003333.png)
+![vague003 poster](/v003333.png)
