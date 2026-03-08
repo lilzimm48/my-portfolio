@@ -1,5 +1,5 @@
 ---
-title: "m24 mount to rf mount 3d model"
+title: "m42 mount to rf mount 3d model"
 date: 2026-03-01
 description: "3d modeled and printed m24 camera mount to rf adapter"
 categories: 
