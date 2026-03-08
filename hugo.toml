@@ -8,6 +8,7 @@ theme = 'diary'
     subtitle = "artist"
     enableThemeSelection = true
     logo = "/darklogo.png"
+    avatar = "/darklogo.png"
 
 [params.gitalk]
   owner = "user"
