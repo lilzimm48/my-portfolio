@@ -18,6 +18,15 @@ theme = 're-terminal'
     terminalFont = true
     accentColor = "#E63946"
 
+[[params.social]]
+    name = "github"
+    url = "https://github.com/lilzimm48"
+
+[[params.social]]
+    name = "tiktok"
+    url = "https://www.tiktok.com/@jacobz.xyz"
+
+
 [languages]
   [languages.en.params]
     languageName = "English"
@@ -63,10 +72,3 @@ theme = 're-terminal'
         name = "tags"
         url = "/tags"
 
-[[params.social]]
-    name = "github"
-    url = "https://github.com/lilzimm48"
-
-[[params.social]]
-    name = "tiktok"
-    url = "https://www.tiktok.com/@jacobz.xyz"
