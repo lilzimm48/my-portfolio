@@ -6,6 +6,10 @@ theme = 're-terminal'
 [markup.goldmark.renderer]
   unsafe = true
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
     enableThemeSelection = true
     avatar = "/darklogo.png"
