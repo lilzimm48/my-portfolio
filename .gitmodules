@@ -1,3 +1,7 @@
 [submodule "themes/diary"]
 	path = themes/diary
 	url = https://github.com/lilzimm48/hugo-theme-diary.git
+
+[submodule "themes/re-terminal"]
+	path = themes/re-terminal
+	url = https://github.com/mirus-ua/hugo-theme-re-terminal.git
