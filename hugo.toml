@@ -6,15 +6,15 @@ theme = 're-terminal'
 [params]
     # This theme allows for a subtitle and description
     subtitle = "artist"
-    enableThemeSelection = true
+    enableThemeSelection = false
     avatar = "/darklogo.png"
     logo = "/darklogo.png"
     contentTypeName = "posts"
     themeColor = "red"
     showMenuItems = 6
     showLanguageSelector = false
-    fullWidthTheme = false
-    centerTheme = false
+    fullWidthTheme = true
+    centerTheme = true
     autoCover = true
     showLastUpdated = false
     scanlines = true
