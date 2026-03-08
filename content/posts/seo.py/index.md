@@ -3,7 +3,8 @@ title: "seo.py"
 date: 2024-09-29
 description: "a script i wrote to show trending google searches building on custom queries"
 featureImage: "seo-screenshot.png"
-categories: "scripts"
+categories: 
+  - "scripts"
 tags: 
   - "python"
   - "automation"
