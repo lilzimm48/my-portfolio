@@ -9,4 +9,4 @@ draft: false
 ---
 
 Here is the final build:
-![Final Lens](v003333.png)
+![Final Lens](content/posts/v003333.png)
