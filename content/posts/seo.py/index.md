@@ -8,9 +8,9 @@ description: "a script i wrote to show trending google searches building on cust
 
 featureImage: "seo-screenshot.png"
 
-categories: \["IT", "development"]
+categories: "IT development"
 
-tags: \["python", "automation", "scripts"]
+tags: "python automation scripts"
 
 draft: false
 
