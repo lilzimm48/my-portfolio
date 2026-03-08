@@ -13,4 +13,4 @@ tags:
   - "photoshop"
 draft: false
 ---
-![vague003 poster](v003333.png)
+![vague003 poster](/v003333.png)
