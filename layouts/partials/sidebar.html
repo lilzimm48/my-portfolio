@@ -4,8 +4,10 @@
     {{ else }}
     <a class="a-block nav-head false" href="{{ "" | absLangURL }}">
     {{ end }}
-        <div class="sidebar-avatar">
-            <img src="https://jacobz.xyz/darklogo.png" alt="Logo" style="width: 100px; height: auto; display: block; margin: 0 auto;">
+        <div class="sidebar-avatar" style="text-align: center; padding-bottom: 20px;">
+            <img src="{{ "/darklogo.png" | relURL }}" 
+                 alt="Jacob Zimmerman Logo" 
+                 style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%; border: 2px solid #ececec;">
         </div>
         <div class="nav-title">
             {{.Site.Title}}
