@@ -6,9 +6,7 @@ date: 2024-09-29
 
 description: "a script i wrote to show trending google searches building on custom queries"
 
-\# re-terminal uses 'featureImage' for the banner at the top
-
-featureImage: "seo-screenshot.png" 
+featureImage: "seo-screenshot.png"
 
 categories: \["IT", "development"]
 
@@ -18,9 +16,11 @@ draft: false
 
 ---
 
-
-
 a script i wrote to show trending google searches building on custom queries. it generates the most accurate search based off of what you have put in to the program. definitely not fully fleshed out.
+
+
+
+you can download the file here: {{< download src="/scripts/seo.py" label="seo.py" >}}
 
 
 
