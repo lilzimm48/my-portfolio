@@ -9,4 +9,4 @@ draft: false
 ---
 
 Here is the final build:
-![vague003 poster](/v003333.png)
+![vague003 poster](v003333.png)
