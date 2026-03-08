@@ -16,5 +16,5 @@ I first used an ink marker to create strokes on bristol paper. I scanned them, m
 
 
 
-{{< video src="/MVI\_9345.mp4" >}}
+{{< video src="/crtanim.mp4" >}}
 
