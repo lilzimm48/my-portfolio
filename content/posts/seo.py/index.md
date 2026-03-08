@@ -20,12 +20,6 @@ you can download the file here: {{< download src="/scripts/seo.py" label="seo.py
 
 
 
-\### the script
-
-Below is the core logic for the file organizer:
-
-
-
 ```python
 import requests  # Include functionality to make a call to the remote websites
 import pandas as pd
