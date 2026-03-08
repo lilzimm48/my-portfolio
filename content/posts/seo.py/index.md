@@ -8,7 +8,7 @@ description: "a script i wrote to show trending google searches building on cust
 
 \# re-terminal uses 'featureImage' for the banner at the top
 
-featureImage: "seo screenshot.png" 
+featureImage: "seo-screenshot.png" 
 
 categories: \["IT", "development"]
 
@@ -24,7 +24,7 @@ a script i wrote to show trending google searches building on custom queries. it
 
 
 
-\### The Script
+\### the script
 
 Below is the core logic for the file organizer:
 
@@ -32,7 +32,7 @@ Below is the core logic for the file organizer:
 
 ```python
 
-import requests  # Include functionality to make a call to the remote websites
+import requests 
 
 import pandas as pd
 
