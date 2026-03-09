@@ -1,6 +1,6 @@
 ---
 title: "240new.wav"
-date: 20243-08-12
+date: 2023-08-12
 description: "a little demo using purely the casio mt-240"
 categories: 
   - "music"
