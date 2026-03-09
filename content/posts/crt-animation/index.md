@@ -7,6 +7,7 @@ categories:
 tags:
   - "crt"
   - "animation"
+  - "experimental"
 draft: false
 ---
 
