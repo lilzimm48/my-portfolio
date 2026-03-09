@@ -13,7 +13,7 @@ draft: false
 
 i ordered the fanttik t1 max from the tiktok shop, fantastic tool. i used it to create this poster by taking photos of it in my photonox and manipulating it with photoshop and affinity.
 
-b/w version:
+v1:
 ![](/fanttik1.jpg)
-color versiom:
+v2:
 ![](/fanttik2.jpg)
