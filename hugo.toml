@@ -24,7 +24,6 @@ theme = 're-terminal'
     autoCover = true
     showLastUpdated = false
     terminalFont = true
-    accentColor = "#E63946"
 
 [[params.social]]
     name = "github"
