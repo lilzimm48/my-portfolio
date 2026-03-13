@@ -24,6 +24,12 @@ theme = 're-terminal'
     autoCover = true
     showLastUpdated = false
     terminalFont = true
+    defaults: dismissible = false; URL is optional
+
+    [params.banner]
+    dismissible = false
+    text = "currently under construction..."
+  # url = "https://github.com/mirus-ua/hugo-theme-re-terminal"
 
 [[params.social]]
     name = "github"
