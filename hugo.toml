@@ -27,8 +27,8 @@ theme = 're-terminal'
 
     [params.banner]
     dismissible = false
-    text = "currently under construction..."
-  # url = "https://github.com/mirus-ua/hugo-theme-re-terminal"
+    text = "currently under construction... click here to see more projects"
+    url = "https://www.instagram.com/jacobz.xyz"
 
 [[params.social]]
     name = "github"
