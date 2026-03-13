@@ -24,7 +24,6 @@ theme = 're-terminal'
     autoCover = true
     showLastUpdated = false
     terminalFont = true
-    defaults: dismissible = false
 
     [params.banner]
     dismissible = false
