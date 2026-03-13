@@ -1,6 +1,7 @@
 baseURL = 'https://jacobz.xyz/'
 languageCode = 'en-us'
 title = 'jacobz.xyz'
+description = 'currently under construction'
 theme = 're-terminal' 
 
 [markup.goldmark.renderer]
